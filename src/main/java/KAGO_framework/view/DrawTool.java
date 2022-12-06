@@ -367,13 +367,6 @@ public class DrawTool {
         return parent;
     }
 
-    public void drawDoor() {
-    }
 
-    public void drawWindow1() {
-    }
-
-    public void drawWindow2() {
-    }
 }
 
